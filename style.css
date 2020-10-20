@@ -1,17 +1,21 @@
 body{
     background:#000000;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
-.jumbotron
-{
-    background: #000;
-    text-align: center;
-    color: azure;
-}
+
 h1
 {
-   color: yellowgreen;
+   color:greenyellow;
+   text-align: center;
 }
-h2{color: green}
+h2{color:#FFFFFF;padding:40}
+h3{color: rgb(219, 170, 170);padding:40;}
+p{color: aqua;padding:40;}
+.img-fluid{
+    height: 400px;
+    width: 400px;
+    background: gray;
+}
+
 
 

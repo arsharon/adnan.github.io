@@ -8,13 +8,14 @@ h1
    color:greenyellow;
    text-align: center;
 }
-h2{color:#FFFFFF;padding:40}
-h3{color: rgb(219, 170, 170);padding:40;}
-p{color: aqua;padding:40;}
+c{color:#FFFFFF;font-size: 200%;}
+b{color:mediumturquoise;font-size: x-large;}
+p{color:palegreen;font-size: x-large;}
 .img-fluid{
     height: 400px;
     width: 400px;
     background: gray;
+    
 }
 
 

@@ -8,15 +8,23 @@ h1
    color:greenyellow;
    text-align: center;
 }
-c{color:#FFFFFF;font-size: 200%;}
-b{color:mediumturquoise;font-size: x-large;}
-p{color:palegreen;font-size: x-large;}
+c{color:#FFFFFF;font-size: 190%;}
+b{color: rgb(96, 133, 72);font-size: x-large;}
+p{color:palevioletred;font-size: x-large;}
 .img-fluid{
     height: 400px;
     width: 400px;
     background: gray;
     
 }
+.btn-container{ border: 40px solid black;}
 
-
+.btn-warning:hover{color:red}
+.navbar-container{
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+p1{color: white; font-size: larger;}
+.about-container
 

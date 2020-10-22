@@ -26,5 +26,19 @@ p{color:palevioletred;font-size: x-large;}
     z-index: 2;
 }
 p1{color: white; font-size: larger;}
-.about-container
+.row-container{
+     text-align: center;  
+border: 0px solid ;
+padding: 50px;}
+.row-contain{
+    border-bottom: 50px solid black;
+}
+.text-dr{color: #563D7C}
+h2{
+     
+border: 0px solid ;
+text-align: center;
+padding: 50px;
+color: white
+}
 
